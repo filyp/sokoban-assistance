@@ -1,0 +1,7 @@
+# gym-sokoban
+# gym==0.21.0   # alternatively gymgrid2 could be used, but you also need to modify the imports
+# pyglet
+
+griddly
+pynput
+# ray[rllib]==2.3.0
